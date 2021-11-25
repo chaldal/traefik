@@ -115,4 +115,5 @@ replace (
 	github.com/mesosphere/mesos-dns => github.com/containous/mesos-dns v0.5.3-rc1.0.20160623212649-b47dc4c19f21
 	github.com/rancher/go-rancher-metadata => github.com/containous/go-rancher-metadata v0.0.0-20180116133453-e937e8308985
 	gopkg.in/fsnotify.v1 => github.com/fsnotify/fsnotify v1.4.2
+        github.com/containous/traefik-extra-service-fabric => github.com/chaldal/traefik-extra-service-fabric v1.8.0
 )
